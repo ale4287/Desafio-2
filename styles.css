@@ -1,0 +1,80 @@
+.titulo1 {
+  font-size: large;
+  margin-left: 20%;
+}
+.menu {
+  text-align: right;
+  margin-right: 20%;
+}
+a {
+  text-decoration: none;
+  margin: 0px 10px;
+  color: black;
+}
+.textoA {
+  text-align: center;
+  width: 800px;
+  margin: auto;
+  margin-top: 100px;
+}
+.titulo2 {
+  text-align: center;
+  color: red;
+  font-size: x-large;
+}
+.titulo3 {
+  text-align: center;
+}
+.imagenes {
+  margin-left: 30%;
+}
+img {
+  width: 70px;
+  height: 70px;
+  margin-top: 50px;
+}
+.imagen1 {
+  margin:auto;
+}
+.imagen2 {
+  margin-left: 18%;
+  margin-right: 18%;
+}
+.lista1 li{
+   display: inline-block;
+}
+.parrafos p{
+  display: inline-block;
+  max-width: 15%;
+  text-align: center;
+}
+.parrafos {
+  display: flex;
+  flex-direction: row;
+  font-size: small;
+}
+.parrafo1 {
+  margin-left: 25%;
+}
+.parrafo2{
+  margin-left: 50px;
+  margin-right: 50px;
+}
+.footer {
+  margin-left: 40%;
+}
+.footer img{
+  width: 30px;
+  height: 30px;
+  margin-top: 10%; 
+}
+.footer .img2{
+  margin-left: 30px;
+  margin-right: 30px;
+}
+.footer p{
+  display: inline-block;
+  margin-left: 30px;
+}
+
+
